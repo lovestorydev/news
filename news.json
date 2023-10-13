@@ -1,6 +1,15 @@
 {
-    "version" : 25,
-    "image" : "https://patreon.renpy.org/_static/news-banner.jpg",
-    "link" : "https://www.patreon.com/LovestoryGames",
-    "text" : "YOUR VERSION IS OUTDATED.</div>GET V0.25 HERE"
+    "version": 1,
+    "image": "https://patreon.renpy.org/_static/news-banner.jpg",
+    "link": "https://patreon.com/renpytom",
+    "text": "Now it's possible to include news blasts that can be changed by updating a file on a website. Visit {a=https://patreon.com/renpytom/%7DTom's Patreon{/a} to find out more.",
+
+
+    "bulletin: [
+          "notice 1",
+          "notice 2",
+          "notice 3",
+    ]
+
+
 }
