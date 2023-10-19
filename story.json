@@ -4,12 +4,14 @@
     "link": "https://www.patreon.com/LovestoryGames",
     "text": "This version is outdated. {a=https://www.patreon.com/LovestoryGames}Click here{/a} to update to version 0.25.",
 
-
+    "bulletin_top": "version 0.25 is now available on Patreon",
     "bulletin": [
-          "notice 1",
-          "notice 2",
-          "notice 3"
-    ]
+          "testing 1,2,3",
+          "new version, new ui",
+          "gallery codes"
+    ],
+
+    "patreon": "code"
 
 
 }
