@@ -6,9 +6,9 @@
 
     "bulletin_top": "Latest News",
     "bulletin": [
-          "v0.25 is now available! {a=https://www.patreon.com/LovestoryGames}Click here{/a} to update to version 0.25.",
-          "Play with Sound On! {a=https://lovestorygames.net/dw-changelog/}Click here{/a} for more details.",
-          "Improved 302 Animations! {a=https://lovestorygames.net/dw-changelog/}Click here{/a} for more details."
+          "v0.25 is now available! {a=https://www.patreon.com/LovestoryGames}Update{/a}",
+          "Play with Sound On! {a=https://lovestorygames.net/dw-changelog/}More Info{/a}",
+          "Improved 302 Animations! {a=https://lovestorygames.net/dw-changelog/}More Info{/a}"
     ],
 
     "patreon": "code"
