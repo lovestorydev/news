@@ -1,12 +1,12 @@
 {
     "version": 0.26,
     "image": "https://patreon.renpy.org/_static/news-banner.jpg",
-    "link": "https://www.patreon.com/LovestoryGames",
+    "link": "https://www.patreon.com/posts/91890917",
     "text": "This version is outdated. Click here to update to version 0.26.",
 
     "bulletin_top": "Real-Time Bulletin",
     "bulletin": [
-          "v0.26 is now available! {a=https://www.patreon.com/LovestoryGames}Update{/a}",
+          "v0.26 is now available! {a=https://www.patreon.com/posts/91890917}Update{/a}",
           "Play with Sound On! {a=https://lovestorygames.net/dw-changelog/}More Info{/a}",
           "Improved 302 Animations! {a=https://lovestorygames.net/dw-changelog/}More Info{/a}"
     ],
