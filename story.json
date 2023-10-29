@@ -2,7 +2,7 @@
     "version": 0.26,
     "image": "https://patreon.renpy.org/_static/news-banner.jpg",
     "link": "https://www.patreon.com/LovestoryGames",
-    "text": "This version is outdated. {a=https://www.patreon.com/LovestoryGames}Click here{/a} to update to version 0.26.",
+    "text": "This version is outdated. Click here to update to version 0.26.",
 
     "bulletin_top": "Real-Time Bulletin",
     "bulletin": [
